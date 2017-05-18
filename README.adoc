@@ -1,5 +1,5 @@
-=Lisans Fizik Dersi Egik Atis Python Kodlaması
-
+= *Lisans Fizik Dersi Egik Atis Python Kodlaması* +
+´´´python
 ---------------------------------
 from visual import *
 from math import sin, cos
